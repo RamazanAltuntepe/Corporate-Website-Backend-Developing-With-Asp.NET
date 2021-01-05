@@ -232,3 +232,6 @@ C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Nar
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\ref\Narail.dll
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Narail.pdb
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Narail.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNews.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\News\Index.cshtml.g.cs

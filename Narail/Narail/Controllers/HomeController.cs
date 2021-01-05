@@ -1,11 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Narail.Models;
-using System;
-using System.Collections.Generic;
+
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Narail.Controllers
 {
@@ -33,6 +30,22 @@ namespace Narail.Controllers
             return View();
         }
 
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Send()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Send()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
