@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Narail.Controllers
 {
-    public class NewsController : Controller
+    public class AboutController : Controller
     {
-        public IActionResult Index()
+        public IActionResult About()
         {
             return View();
         }

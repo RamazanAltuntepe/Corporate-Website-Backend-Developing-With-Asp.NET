@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Narail", "Narail\Narail.csproj", "{AB88704E-997F-4DA4-9F75-8BB7D1AA0DD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narail", "Narail\Narail.csproj", "{3250100B-2352-44C9-A825-A58FDAC85E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB88704E-997F-4DA4-9F75-8BB7D1AA0DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB88704E-997F-4DA4-9F75-8BB7D1AA0DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB88704E-997F-4DA4-9F75-8BB7D1AA0DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB88704E-997F-4DA4-9F75-8BB7D1AA0DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3250100B-2352-44C9-A825-A58FDAC85E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3250100B-2352-44C9-A825-A58FDAC85E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3250100B-2352-44C9-A825-A58FDAC85E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3250100B-2352-44C9-A825-A58FDAC85E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {88C7C1F0-4955-40D4-86DD-70C3D0FC5AD8}
+		SolutionGuid = {A9DBC2EC-DE5C-434C-8E42-6BFDA4BB7D78}
 	EndGlobalSection
 EndGlobal
