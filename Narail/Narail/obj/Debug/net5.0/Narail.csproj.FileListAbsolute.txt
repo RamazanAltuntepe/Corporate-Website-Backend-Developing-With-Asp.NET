@@ -116,3 +116,16 @@ C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Nar
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Home\Counter.cshtml.g.cs
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\About\Team.cshtml.g.cs
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\About\About.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Contact\Contact.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Project\Project.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Project\ProjectSidebar.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Project\Content.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Service\Service.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Service\ServiceCategory.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Service\ServiceNews.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Service\ServiceContent.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\Blog.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogSidebar.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogGridContent.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogDetailContent.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogContent.cshtml.g.cs

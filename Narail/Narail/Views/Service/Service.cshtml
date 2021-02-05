@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewData["Title"] = "Service";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="inner-banner has-base-color-overlay text-center" style="background: url(images/background/1.jpg);">
+    <div class="container">
+        <div class="box">
+            <h3>service details</h3>
+        </div><!-- /.box -->
+    </div><!-- /.container -->
+</div>
+
+
+<div class="breadcumb-wrapper">
+    <div class="container">
+        <div class="pull-left">
+            <ul class="list-inline link-list">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="service.html">service</a>
+                </li>
+                <li>
+                    service details
+                </li>
+            </ul><!-- /.list-line -->
+        </div><!-- /.pull-left -->
+        <div class="pull-right">
+            <a href="#" class="get-qoute"><i class="fa fa-share"></i>share</a>
+        </div><!-- /.pull-right -->
+    </div><!-- /.container -->
+</div>shape of a
+
+
+<section class="service-single">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+
+                <div class="service-sidebar">
+
+                    @Html.Partial("ServiceCategory")
+                    <br>
+
+                    @Html.RenderPartialAsync("ServiceNews")
+
+
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="outer-box">
+                    @Html.Partial("ServiceContent")
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

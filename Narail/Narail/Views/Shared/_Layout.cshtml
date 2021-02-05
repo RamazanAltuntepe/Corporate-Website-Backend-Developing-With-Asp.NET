@@ -45,13 +45,13 @@
         <section class="mainmenu-area stricky">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <div class="main-logo">
                             <a href="index.html"><img src="images/logo/logo.png" alt=""></a>
                         </div>
                     </div>
 
-                    <div class="col-md-6 menu-column">
+                    <div class="col-md-8 menu-column">
                         <nav class="main-menu">
                             <div class="navbar-header">
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -65,21 +65,20 @@
                                 <ul class="navigation clearfix">
 
                                     <li class="current dropdown">
-                                        @Html.ActionLink("Home", "", "Home")
+                                        @Html.ActionLink("Anasayfa", "Index", "Home")
 
                                     </li>
 
                                     <li class="dropdown">
-                                        @Html.ActionLink("About", "About", "About")
+                                        @Html.ActionLink("Hakkımızda", "About", "About")
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="#">Projects</a>
-
+                                        @Html.ActionLink("Projeler","Project","Project")
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="#">services</a>
+                                        @Html.ActionLink("Hizmetlerimiz", "Service", "Service")
 
                                     </li>
 
@@ -87,29 +86,32 @@
                                         <a href="#">News</a>
 
                                     </li>
+                                    <li class="dropdown">
+                                        @Html.ActionLink("İletişim", "Contact", "Contact")
 
-                                    <li><a href="contact.html">Contact</a></li>
+                                    </li>
+                                    
                                 </ul>
 
                                 <ul class="mobile-menu clearfix">
 
                                     <li class="dropdown">
-                                        <a href="index.html">Home</a>
+                                        @Html.ActionLink("Anasayfa", "index", "Home")
 
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="#">About</a>
+                                        @Html.ActionLink("Hakkımızda", "About", "About")
 
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="#">Projects</a>
+                                        @Html.ActionLink("Projeler", "Project", "Project")
 
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="#">services</a>
+                                        @Html.ActionLink("Hizmetlerimiz", "Service", "Service")>
 
                                     </li>
 
@@ -118,7 +120,10 @@
 
                                     </li>
 
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li>
+                                         @Html.ActionLink("İletişi", "Contact", "Contact")
+
+                                    </li>
                                 </ul>
                             </div>
                         </nav>
