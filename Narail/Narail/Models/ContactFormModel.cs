@@ -9,11 +9,11 @@ namespace Narail.Models
     public class ContactFormModel
     {
         [Required]
-        public string Name { get; set; }
+        public string ContactName { get; set; }
         [Required]
-        public string Mail { get; set; }
-        public string Phone { get; set; }
-        public string Subject { get; set; }
-        public string Message { get; set; }
+        public string ContactMail { get; set; }
+        public string ContactPhone { get; set; }
+        public string ContactSubject { get; set; }
+        public string ContactMessage { get; set; }
     }
 }
