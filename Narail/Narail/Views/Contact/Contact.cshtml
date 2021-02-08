@@ -14,52 +14,54 @@
                     <h2>Contact Us</h2>
                 </div>
                 <div class="default-form-area">
+                    
 
                     @using (Html.BeginForm("Contact", "Contact", FormMethod.Post))
                     {
 
 
-                        <div class="row clearfix">
+                    <div class="row clearfix">
+                        <div class="alert alert-info">@TempData["Message"]</div>
 
-                            <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="col-md-6 col-sm-6 col-xs-12">
 
-                                <div class="form-group">
-                                    @Html.TextBox("ContactName", null, new { placeholder = "İsminiz *", @class = "form-control" })
-                                </div>
+                            <div class="form-group">
+                                @Html.TextBox("ContactName", null, new { placeholder = "İsminiz *", @class = "form-control" })
                             </div>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="form-group">
-                                    @Html.TextBox("ContactMail", null, new { placeholder = "Mail Adresiniz *", @class = "form-control" })
-                                </div>
-                            </div>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="form-group">
-                                    @Html.TextBox("ContactPhone", null, new { placeholder = "Telefon Numaranız", @class = "form-control" })
-                                </div>
-                            </div>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="form-group">
-                                    @Html.TextBox("ContactSubject", null, new { placeholder = "Konu", @class = "form-control" })
-                                </div>
-                            </div>
-
-                            <div class="col-md-12 col-sm-12 col-xs-12">
-                                <div class="form-group">
-                                    @Html.TextArea("ContactMessage", null, new { placeholder = "Mesajınız", @class = "form-control" })
-                                </div>
-                            </div>
-
-                            <div class="col-md-12 col-sm-12 col-xs-12">
-                                <div class="form-group">
-                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                    <button class="btn-style-one" type="submit" data-loading-text="Please wait...">Gönder</button>
-                                </div>
-                            </div>
-
                         </div>
+
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                @Html.TextBox("ContactMail", null, new { placeholder = "Mail Adresiniz *", @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                @Html.TextBox("ContactPhone", null, new { placeholder = "Telefon Numaranız", @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                @Html.TextBox("ContactSubject", null, new { placeholder = "Konu", @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="form-group">
+                                @Html.TextArea("ContactMessage", null, new { placeholder = "Mesajınız", @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="form-group">
+                                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
+                                <button class="btn-style-one" type="submit" data-loading-text="Please wait...">Gönder</button>
+                            </div>
+                        </div>
+
+                    </div>
                     }
 
 
