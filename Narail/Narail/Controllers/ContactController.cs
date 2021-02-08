@@ -12,5 +12,6 @@ namespace Narail.Controllers
         {
             return View();
         }
+
     }
 }

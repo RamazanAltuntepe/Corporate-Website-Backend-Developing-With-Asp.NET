@@ -13,10 +13,10 @@ namespace Narail.Controllers
             return View();
         }
 
-        public PartialViewResult BlogDetail()
+        public IActionResult BlogDetailContent()
         {
             return PartialView("BlogDetailContent");
-
         }
+       
     }
 }
