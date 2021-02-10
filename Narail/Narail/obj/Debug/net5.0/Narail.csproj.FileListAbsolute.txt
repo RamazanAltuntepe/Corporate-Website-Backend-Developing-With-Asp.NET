@@ -129,3 +129,7 @@ C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Nar
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogGridContent.cshtml.g.cs
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogContent.cshtml.g.cs
 C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\obj\Debug\net5.0\Razor\Views\Blog\BlogDetailContent.cshtml.g.cs
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Desktop\Asp.NET\Corporate-Website-Backend-Developing-With-.NET\Narail\Narail\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
